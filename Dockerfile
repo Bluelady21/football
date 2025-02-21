@@ -1,5 +1,4 @@
-# 2.fix again 123
-# Fix einfügen
+# fixing 123
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
